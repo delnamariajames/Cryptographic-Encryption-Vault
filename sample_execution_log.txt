@@ -1,0 +1,11 @@
+DEMONSTRATION LOG (generated from automated local test; not a screenshot)
+ENCRYPTED hello.txt (23 bytes)
+ENCRYPTED notes/sample.txt (20 bytes)
+SUCCESS: Encrypted 2 files into /tmp/tmpj_illeya/encrypted
+Key backup (passphrase required): /tmp/tmpj_illeya/key_backup.json
+Original source files were NOT changed.
+RESTORED hello.txt (SHA-256 verified)
+RESTORED notes/sample.txt (SHA-256 verified)
+SUCCESS: Restored and verified 2 files into /tmp/tmpj_illeya/restored
+Encrypted vault files were NOT changed.
+TEST PASSED: Original and restored files match byte-for-byte.

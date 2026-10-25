@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+demo_input/
+encrypted_vault/
+restored_files/
+vault_key_backup.json
+*.key
